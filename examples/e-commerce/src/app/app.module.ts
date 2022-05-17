@@ -14,3 +14,6 @@ import { NoResults } from './no-results/no-results.component';
   bootstrap: [AppComponent],
 })
 export class AppModule {}
+
+
+  // imports: [BrowserModule, NgAisModule.forRoot()],
